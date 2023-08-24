@@ -1,5 +1,3 @@
-AI-Powered Character Personality and Dialogue Support
-======================================================================================================================
 
 Character development and dialogue are crucial components of effective storytelling. In this chapter, we will explore how AI can be used to enhance these elements in fiction writing.
 

@@ -1,5 +1,3 @@
-Using AI for Idea Generation and Plot Development
-======================================================================================================
 
 Ideation and plotting are essential components of fiction writing. In this chapter, we will explore how AI can be used to enhance these elements in the creative process.
 

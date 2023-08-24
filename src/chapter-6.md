@@ -1,5 +1,3 @@
-Chapter 6: Streamlining Editing and Revision with AI
-====================================================
 
 Editing and revision are critical components of the fiction writing process. In this chapter, we will explore how AI can streamline editing and revision tasks to improve efficiency and accuracy.
 

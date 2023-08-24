@@ -1,5 +1,3 @@
-Chapter 3: Implementing AI in Ideation and Plotting
-===================================================
 
 In this chapter, we will explore how to implement AI in ideation and plotting for fiction writing.
 

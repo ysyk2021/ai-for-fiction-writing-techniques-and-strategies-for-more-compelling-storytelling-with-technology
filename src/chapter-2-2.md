@@ -1,5 +1,3 @@
-Selecting the Right Tools for Your Fiction Writing Needs
-=========================================================================================================================
 
 In this chapter, we will explore how to select the right AI-powered tools for your fiction writing needs.
 

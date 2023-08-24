@@ -1,5 +1,3 @@
-Chapter 5: Improving Imagery and Scene Setting with AI
-======================================================
 
 Imagery and scene setting are essential elements of effective storytelling. In this chapter, we will explore how AI can be used to enhance these components in fiction writing.
 

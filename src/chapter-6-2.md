@@ -1,5 +1,3 @@
-Automated Grammar and Style Checking using AI
-===================================================================================================
 
 One of the benefits of using AI in fiction writing is its ability to streamline the editing and revision process. With AI-powered automated grammar and style checking tools, writers can quickly identify and correct errors in their writing, saving time and effort in the editing process.
 

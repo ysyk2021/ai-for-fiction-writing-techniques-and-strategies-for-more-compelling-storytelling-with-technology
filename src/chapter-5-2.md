@@ -1,5 +1,3 @@
-Personalized Scene Recommendations and Interventions using AI
-=====================================================================================================================
 
 One of the most important aspects of effective storytelling is imagery and scene setting. In this chapter, we will explore how AI can be used to improve these elements by providing personalized scene recommendations and interventions.
 

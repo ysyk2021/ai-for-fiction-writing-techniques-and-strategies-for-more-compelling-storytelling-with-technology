@@ -1,5 +1,3 @@
-AI-Driven Imagery and Scene Setting Enhancement Techniques
-==================================================================================================================
 
 Imagery and scene setting are crucial components of effective storytelling. In this chapter, we will explore how AI-driven techniques can be used to enhance imagery and scene setting in fiction writing.
 

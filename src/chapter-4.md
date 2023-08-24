@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Character Development and Dialogue with AI
-===============================================================
 
 Character development and dialogue are essential components of effective storytelling. In this chapter, we will explore how AI can be used to enhance these elements in fiction writing.
 

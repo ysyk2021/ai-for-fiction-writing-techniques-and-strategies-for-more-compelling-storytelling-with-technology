@@ -1,4 +1,3 @@
-# Introduction
 
 AI for Fiction Writing: Techniques and Strategies for More Compelling Storytelling with Technology is a comprehensive guide to using artificial intelligence (AI) in the creative writing process. This book explores how AI technologies such as machine learning, natural language processing, and deep learning can be used to enhance the storytelling experience and produce more engaging narratives.
 

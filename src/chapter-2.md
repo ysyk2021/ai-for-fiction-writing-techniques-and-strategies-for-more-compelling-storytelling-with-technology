@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Fiction Writing
-===============================================================
 
 In this chapter, we will explore the tools and technologies available for AI-driven fiction writing and how to select the right tools for your needs.
 

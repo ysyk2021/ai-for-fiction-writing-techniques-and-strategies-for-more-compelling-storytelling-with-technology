@@ -1,5 +1,3 @@
-Chapter 7: Managing Ethics and Bias in AI-Driven Fiction Writing
-================================================================
 
 Importance of Ethical and Unbiased Fiction Writing Practices
 ------------------------------------------------------------

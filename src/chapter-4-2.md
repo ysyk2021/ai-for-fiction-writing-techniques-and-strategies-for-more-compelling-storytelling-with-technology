@@ -1,5 +1,3 @@
-Automated Tone and Voice Analysis using AI
-===========================================================================================================
 
 Character development and dialogue are crucial elements of effective storytelling. In this chapter, we will explore how AI can be used to enhance these components in fiction writing.
 
