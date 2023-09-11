@@ -1,5 +1,4 @@
-Chapter 8: AI-Driven Editing and Revision Assistance
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the application of artificial intelligence (AI) in providing editing and revision assistance for fiction writing. Editing and revising a manuscript are critical steps in crafting a polished and compelling story. AI technologies can play a valuable role in identifying areas of improvement, suggesting revisions, and enhancing the overall quality of the written work. This chapter delves into the techniques, strategies, and benefits of employing AI-driven tools for editing and revision support.
 

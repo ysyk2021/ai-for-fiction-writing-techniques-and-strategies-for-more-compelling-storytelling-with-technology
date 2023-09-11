@@ -1,5 +1,4 @@
-Chapter 14: Mitigating Risks and Ensuring Compliance
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of mitigating risks and ensuring compliance when utilizing artificial intelligence (AI) in fiction writing. As AI technology becomes increasingly integrated into the creative process, writers must be aware of potential risks, such as privacy concerns, intellectual property issues, and legal compliance. This chapter provides strategies to mitigate these risks and ensure adherence to relevant regulations and standards.
 

@@ -1,5 +1,4 @@
-Chapter 7: AI-Powered Character Personality and Dialogue Support
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the use of artificial intelligence (AI) in developing character personality traits and facilitating dialogue support for fiction writing. Creating compelling and well-rounded characters is essential for engaging storytelling. AI technologies can assist writers in generating realistic and consistent character personalities and providing dialogue suggestions that enhance the authenticity and depth of fictional individuals. This chapter delves into techniques, strategies, and the benefits of employing AI-powered tools for character development and dialogue support.
 

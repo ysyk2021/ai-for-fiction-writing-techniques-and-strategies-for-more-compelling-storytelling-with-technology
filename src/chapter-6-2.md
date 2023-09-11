@@ -1,5 +1,4 @@
-Chapter 5: Automated Grammar and Style Checking Using AI
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the application of artificial intelligence (AI) in automated grammar and style checking for fiction writing. Writing compelling and error-free prose is crucial for creating engaging stories. AI technologies can play a significant role in identifying and rectifying grammar and style issues, enhancing the quality of fictional works. This chapter dives into the techniques, strategies, and benefits of using AI-powered tools for automated grammar and style checking.
 

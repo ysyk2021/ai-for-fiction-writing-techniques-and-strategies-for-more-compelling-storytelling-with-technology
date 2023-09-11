@@ -1,5 +1,4 @@
-Chapter 4: Automated Tone and Voice Analysis Using AI
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the use of artificial intelligence (AI) in automated tone and voice analysis for fiction writing. Tone and voice are crucial elements that shape the overall mood, atmosphere, and emotional impact of a story. AI technologies can assist writers in analyzing the tone and voice of their writing, providing valuable insights and suggestions to enhance the desired narrative effect. This chapter delves into the techniques, strategies, and benefits of utilizing AI-driven tools for automated tone and voice analysis.
 

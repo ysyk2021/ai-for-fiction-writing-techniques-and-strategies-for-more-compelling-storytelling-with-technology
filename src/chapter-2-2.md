@@ -1,5 +1,4 @@
-Chapter 10: Selecting the Right Tools for Your Fiction Writing Needs
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the process of selecting the right tools for your fiction writing needs in the realm of artificial intelligence (AI) technology. With a wide array of AI-powered tools available, it's essential to understand how to evaluate and choose the ones that align with your specific requirements and enhance your storytelling capabilities. This chapter provides strategies and considerations for selecting the most suitable AI tools to support your fiction writing endeavors.
 

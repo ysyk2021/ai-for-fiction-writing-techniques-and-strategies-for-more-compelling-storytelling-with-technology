@@ -1,5 +1,4 @@
-Chapter 12: Importance of Ethical and Unbiased Fiction Writing Practices
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the significance of ethical and unbiased fiction writing practices in the context of artificial intelligence (AI) technology. As AI continues to play a growing role in the creative process, it becomes essential for writers to consider the ethical implications and strive for fairness, inclusivity, and responsible storytelling. This chapter explores the importance of upholding ethical standards and avoiding bias in fiction writing with the assistance of AI.
 

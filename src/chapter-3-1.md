@@ -1,5 +1,4 @@
-Chapter 6: Using AI for Idea Generation and Plot Development
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the exciting realm of using artificial intelligence (AI) for idea generation and plot development in fiction writing. AI technology can serve as a valuable creative tool, helping writers overcome writer's block, inspire new concepts, and refine plotlines. This chapter explores various strategies and techniques for leveraging AI in idea generation and plot development to enhance your storytelling capabilities.
 

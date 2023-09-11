@@ -1,5 +1,4 @@
-Chapter 8: AI-Driven Imagery and Scene Setting Enhancement Techniques
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting capabilities of artificial intelligence (AI) in enhancing imagery and scene setting in fiction writing. With advanced AI technologies, writers now have access to tools that can generate vivid descriptions, evoke emotions, and create immersive settings. This chapter delves into various AI-driven techniques and strategies that can elevate your imagery and scene setting, enabling you to craft more compelling and captivating narratives.
 

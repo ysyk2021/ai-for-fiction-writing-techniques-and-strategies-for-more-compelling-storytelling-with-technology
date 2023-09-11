@@ -1,5 +1,4 @@
-Chapter 12: Unlocking New Opportunities with AI
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the vast array of opportunities that arise from using artificial intelligence (AI) in fiction writing. AI technology offers writers innovative tools and techniques to enhance storytelling, engage readers, and push creative boundaries. This chapter dives into various ways to unlock new opportunities with AI, enabling you to elevate your craft and create more compelling narratives.
 

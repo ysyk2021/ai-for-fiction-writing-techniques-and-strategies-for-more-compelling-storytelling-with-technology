@@ -1,5 +1,4 @@
-Chapter 14: Emerging Trends in AI for Fiction Writing and Publishing
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the exciting and ever-evolving landscape of emerging trends in artificial intelligence (AI) for fiction writing and publishing. As technology continues to advance, new opportunities arise for writers to harness AI tools and techniques in their creative processes and enhance their publishing endeavors. This chapter provides insights into the latest trends shaping the intersection of AI and fiction writing, offering a glimpse into the future of storytelling.
 
